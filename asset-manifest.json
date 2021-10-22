@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reach-tut-sponsored/static/css/main.85d411ca.chunk.css",
-    "main.js": "/reach-tut-sponsored/static/js/main.6672ff65.chunk.js",
-    "main.js.map": "/reach-tut-sponsored/static/js/main.6672ff65.chunk.js.map",
+    "main.js": "/reach-tut-sponsored/static/js/main.c81c3492.chunk.js",
+    "main.js.map": "/reach-tut-sponsored/static/js/main.c81c3492.chunk.js.map",
     "runtime-main.js": "/reach-tut-sponsored/static/js/runtime-main.b4c44097.js",
     "runtime-main.js.map": "/reach-tut-sponsored/static/js/runtime-main.b4c44097.js.map",
     "static/js/2.b2e62a7b.chunk.js": "/reach-tut-sponsored/static/js/2.b2e62a7b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b4c44097.js",
     "static/js/2.b2e62a7b.chunk.js",
     "static/css/main.85d411ca.chunk.css",
-    "static/js/main.6672ff65.chunk.js"
+    "static/js/main.c81c3492.chunk.js"
   ]
 }
